@@ -10,5 +10,5 @@ welcome.call(emel,"Javascript","React");
 welcome.apply(volkan,["Javascript","React"]);
 welcome.apply(emel,["Javascript","React"]);
 
-welcomeVolkan=welcome.bind(volkan);// dediğimiz zaman yeni bir fonksiyon oluşmuş oluyor bizim için
+welcomeVolkan=welcome.bind(volkan);// dediğimiz zaman yeni bir fonksiyon oluşmuş oluyor 
 welcomeVolkan("Javascript","React");
